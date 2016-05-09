@@ -1,0 +1,26 @@
+{
+  "name": "oncfwebscrapper",
+  "version": "1.0.1",
+  "description": "a simple tool to scrap Train Trips Schedules from http://www.oncf.ma/",
+  "main": "OncfWebScrapper.js",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/py444/OncfWebScrapper.git"
+  },
+  "keywords": [
+    "scrapper"
+  ],
+  "author": "Ayoub",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/py444/OncfWebScrapper/issues"
+  },
+  "homepage": "https://github.com/py444/OncfWebScrapper#readme"
+}
